@@ -1,5 +1,5 @@
 # What is Kosaka?
-Kosaka is a Closed-Source multi-purpose Discord Bot build specifically for The Sirio Network.
+Kosaka is a Closed-Source multi-purpose Discord Bot built specifically for The Sirio Network.
 
 ## How do I use Kosaka?
 Either [install Kosaka as a User Application](https://discord.com/oauth2/authorize?client_id=1308405429725958226) or use Kosaka inside select Discord Servers such as [The Sirio Network's Discord Server](https://dev.sirio-network.com/discord).  
