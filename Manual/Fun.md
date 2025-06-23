@@ -11,8 +11,8 @@
 - `Spoiler` (Optional, default False) | Boolean indicating if the Attachment is a spoiler.
 
 ## Random Message
-`/random_message` - [All] Display a completely random message from the currently active channel.  
--# Notice: This command gets significantly slower the more messages the channel contains.
+`/random_message (Disable Limit)` - [All] Display a completely random message from the currently active channel.  
+-# Notice: This command is EXCRUCIATINGLY SLOW! Disabling the Limit will make the problem even worse!
 
 ## Roll
 `/roll (Min: int = 0) (Max: int = 100)` - [All] Randomly returns a number in-between (Min) and (Max) in a Terraria-styled message.  
