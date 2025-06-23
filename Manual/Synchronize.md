@@ -1,0 +1,1 @@
+`/synchronize` - [Hardware] Re-synchronises all Slash Commands.
