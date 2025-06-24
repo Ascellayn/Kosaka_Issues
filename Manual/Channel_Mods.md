@@ -3,4 +3,4 @@ This sub-module is in charge of automatically deleting messages if the channel i
 
 ## Settings
 `/channel_mods media_only` - [Root] Toggles the channel to be Media-Only or not.  
-`/channel_mods kosaka_changelog` - [Root] Toggles the channel to allow Kosaka to post Changelogs.
+`/channel_mods kosaka_announcements` - [Root] Toggles the channel to allow Kosaka to post Announcements.

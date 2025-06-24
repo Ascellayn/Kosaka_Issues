@@ -9,10 +9,11 @@
 - `Silent` (Optional, default False) | Boolean indicating if the message should ping or not.
 - `Attachment` (Optional) | Attachment that Kosaka should upload.
 - `Spoiler` (Optional, default False) | Boolean indicating if the Attachment is a spoiler.
+- `Delete After` (Optional, default None) | Boolean indicating if the Attachment is a spoiler.
 
 ## Random Message
 `/random_message (Disable Limit)` - [All] Display a completely random message from the currently active channel.  
-This command automatically uses cached results for an upward of 6 hours.
+This command automatically uses cached results for an upward of 24 hours.
 -# Notice: This command is EXCRUCIATINGLY SLOW! Disabling the 4K Messages Limit will make the problem even worse!
 
 ## Roll
