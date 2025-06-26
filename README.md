@@ -7,8 +7,8 @@ Installing Kosaka as a User Application gives you access to utilities such as th
 ***Remember to keep in mind, much like my mental health, Kosaka is EXTREMELY unstable, use at your own risk***!  
 <br> <br>
 **WARNING:** __ANY TSN Administrator has access to every single Archive and Message Caches!__  
-Consider disabling the Archiver feature and also the Message Caches of certain commands such as `/random_message` and if you care about privacy.  
-These features can be disabled using `/guild_settings`, read `/help Settings` for more information.*
+Consider disabling the Archiver feature and also the Message Caches of certain commands such as `/random_message` if you care about privacy.  
+These features can be disabled using `/guild_settings`, read `/help Settings` for more information.
 <br> <br>
 ### Where's the code??
 Kosaka is Closed-Source software, this repository's purpose is exclusively used only for reporting bugs via [GitHub's Issues](https://github.com/Ascellayn/TSN_Kosaka-Issues/issues).
