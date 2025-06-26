@@ -13,8 +13,12 @@
 
 ## Random Message
 `/random_message (Disable Limit)` - [All] Display a completely random message from the currently active channel.  
-This command automatically uses cached results for an upward of 24 hours.
--# Notice: This command is EXCRUCIATINGLY SLOW! Disabling the 4K Messages Limit will make the problem even worse!
+This command automatically uses cached results for an upward of 24 hours.  
+-# Notice: This command is EXCRUCIATINGLY SLOW! Disabling the 4K Messages Limit will make the problem even worse!  
+**You can disable the Cache if you have Privacy Concerns using `/settings_guild`**  
+__Quirk__: This command randomly picks a message based off the following:
+- Does the message contain an attachment?
+- Does the message contain a bad/silly word?
 
 ## Roll
 `/roll (Min: int = 0) (Max: int = 100)` - [All] Randomly returns a number in-between (Min) and (Max) in a Terraria-styled message.  
