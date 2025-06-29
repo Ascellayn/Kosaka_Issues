@@ -1,17 +1,56 @@
-# What is Kosaka?
-Kosaka is a Closed-Source multi-purpose Discord Bot built specifically for The Sirio Network.
+<img align=right src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_Profile.png?raw=true" width=20%>
 
-## How do I use Kosaka?
-Either [install Kosaka as a User Application](https://discord.com/oauth2/authorize?client_id=1308405429725958226), Kosaka inside select Discord Servers such as [The Sirio Network's Discord Server](https://dev.sirio-network.com/discord), or invite the `Deferred` Build (less updated) of Kosaka into any server using [this link](https://discord.com/oauth2/authorize?client_id=1386347044649570324).  
-Installing Kosaka as a User Application gives you access to utilities such as the Embed Fixer or smaller commands.  
-***Remember to keep in mind, much like my mental health, Kosaka is EXTREMELY unstable, use at your own risk***!  
-<br> <br>
-**WARNING:** __ANY TSN Administrator has access to every single Archive and Message Caches!__  
-Consider disabling the Archiver feature and also the Message Caches of certain commands such as `/random_message` if you care about privacy.  
-These features can be disabled using `/guild_settings`, read `/help Settings` for more information.
-<br> <br>
-### Where's the code??
-Kosaka is Closed-Source software, this repository's purpose is exclusively used only for reporting bugs via [GitHub's Issues](https://github.com/Ascellayn/TSN_Kosaka-Issues/issues).
+#### Starting from an [experiment that became abandonned](https://github.com/Ascellayn/TSN_Kosaka-OLD), for it to finally get the love it deserved...
+### Kosaka is now a 3 year old Discord Bot.
+And boy is it finally useful and got some real use cases.
 
-#### Kosaka is still extremely early in development, stuff will break often.
+<br>
+
+# Kosaka fixes your Embeds but just plain *better*, and [anywwhere](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki/Application-User-Commands).
+<p align=center>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_Anywhere.png?raw=true" width=50%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_MultiWebsite.png?raw=true" width=45%>
+</p>
+
+<br>
+
+### and of course naturally it supports more than one website
+| Kosaka currently supports the following Websites | ... and will support in the future |
+|-|-|
+| Twitter (Supports Profiles, displaying Threads, and much more!) | Youtube (Video Statistics) |
+| Pixiv (Displaying Artworks even with restrictions, clickable Tags, etc.) | Steam (Game prices history, links to a game's discussion pages, etc.) |
+
+With possibly way more websites as time passes!
+
+<br>
+
+# Kosaka helps you manage your server
+<p align=center>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Charm_Welcomer.png?raw=true" width=50%> 
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/ChannelMod_MediaOnly.png?raw=true" width=45%>
+</p>
+
+Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTRMELY POWERFULL** message logger!
+
+<br>
+
+# And yes Kosaka has some sillier commands why would it not?
+<p align=center>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Random_Message.png?raw=true" width=49%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/FirstMessage.png?raw=true" width=50%>
+</p>
+
+Need the usual coin flip, number roller? Kosaka's got you covered, but what if you're mega bored? Then choose to embark into the distant past with `/first_message` or if you're more of a chaotic type of person, try to pull for a hilariously out of context (and probably very vulgar) message with `/random_message`!
+
+<br>
+
+## Convinced? [Then check out the Wiki on how to use Kosaka!](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki)
+### Kosaka is still extremely early in development, stuff will break often.
 Please provide screenshots when making bug reports and especially specify the time (if appplicable) of when the bug occurs.
+
+### Where's the code??
+Kosaka is Closed-Source software, this repository's purpose is exclusively used only for reporting bugs via [GitHub's Issues](https://github.com/Ascellayn/TSN_Kosaka-Issues/issues) and hosting its wiki.
+
+<br>
+
+<h5 align=right>Kosaka "Ceres" © The Sirio Network (2022-2025) All Rights Reserved</h5>
