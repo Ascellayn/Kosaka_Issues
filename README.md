@@ -2,7 +2,7 @@
 
 #### Starting from an [experiment that became abandonned](https://github.com/Ascellayn/TSN_Kosaka-OLD), for it to finally get the love it deserved...
 ### Kosaka is now a 3 year old Discord Bot.
-And boy is it finally useful and got some real use cases.
+And boy is it FINALLY useful and got some real use cases.
 
 <br>
 
