@@ -17,7 +17,7 @@ And boy is it finally useful and got some real use cases.
 ### and of course naturally it supports more than one website
 | Kosaka currently supports the following Websites | ... and will support in the future |
 |-|-|
-| Twitter (Supports Profiles, displaying Threads, and much more!) | Youtube (Video Statistics) |
+| Twitter (Supports Profiles, displaying Threads, and much more!) | Youtube (Video / Profile Statistics) → Will be added next Kosaka Update! |
 | Pixiv (Displaying Artworks even with restrictions, clickable Tags, etc.) | Steam (Game prices history, links to a game's discussion pages, etc.) |
 
 With possibly way more websites as time passes!
