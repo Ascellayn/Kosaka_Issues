@@ -1,15 +1,17 @@
-<img align=right src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_Profile.png?raw=true" width=20%>
+<img align=right src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_TwitterProfileNEW.png?raw=true" width=25%>
+<br>
 
 #### Starting from an [experiment that became abandonned](https://github.com/Ascellayn/TSN_Kosaka-OLD), for it to finally get the love it deserved...
 ### Kosaka is now a 3 year old Discord Bot.
 And boy is it FINALLY useful and got some real use cases.
 
 <br>
+<br>
 
 # Kosaka fixes your Embeds but just plain *better*, and [anywwhere](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki/Application-User-Commands).
 <p align=center>
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/Embed_Anywhere.png?raw=true" width=50%>
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/Embed_MultiWebsite.png?raw=true" width=45%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_TwitterNEW.png?raw=true" width=48%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_PixivNEW.png?raw=true" width=50%>
 </p>
 
 <br>
@@ -27,8 +29,8 @@ With possibly way more websites as time passes!
 
 # Kosaka helps you manage your server
 <p align=center>
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Charm_Welcomer.png?raw=true" width=50%> 
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/ChannelMod_MediaOnly.png?raw=true" width=45%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/ChMod_MediaOnlyNEW.png?raw=true" width=60%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Charm_Welcomer.png?raw=true" width=35%> 
 </p>
 
 Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTRMELY POWERFULL** message logger!
@@ -45,7 +47,7 @@ Need the usual coin flip, number roller? Kosaka's got you covered, but what if y
 
 <br>
 
-## Convinced? [Then check out the Wiki on how to use Kosaka!](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki)
+## Convinced? [Then check out the Wiki on how to use and get Kosaka!](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki)
 ### Kosaka is still extremely early in development, stuff will break often.
 Please provide screenshots when making bug reports and especially specify the time (if appplicable) of when the bug occurs.
 
