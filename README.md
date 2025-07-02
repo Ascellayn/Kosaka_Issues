@@ -8,8 +8,8 @@ And boy is it FINALLY useful and got some real use cases.
 
 # Kosaka fixes your Embeds but just plain *better*, and [anywwhere](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki/Application-User-Commands).
 <p align=center>
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_Anywhere.png?raw=true" width=50%>
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_MultiWebsite.png?raw=true" width=45%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/Embed_Anywhere.png?raw=true" width=50%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/Embed_MultiWebsite.png?raw=true" width=45%>
 </p>
 
 <br>
@@ -27,7 +27,7 @@ With possibly way more websites as time passes!
 # Kosaka helps you manage your server
 <p align=center>
   <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Charm_Welcomer.png?raw=true" width=50%> 
-  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/ChannelMod_MediaOnly.png?raw=true" width=45%>
+  <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/old/ChannelMod_MediaOnly.png?raw=true" width=45%>
 </p>
 
 Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTRMELY POWERFULL** message logger!
