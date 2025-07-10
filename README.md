@@ -8,7 +8,7 @@ And boy is it FINALLY useful and got some real use cases.
 <br>
 <br>
 
-# Kosaka fixes your Embeds but just plain *better*, and [anywwhere](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki/Application-User-Commands).
+# Kosaka fixes your Embeds but just plain *better*, and [anywhere](https://github.com/Ascellayn/TSN_Kosaka-Issues/wiki/Application-User-Commands).
 <p align=center>
   <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_TwitterNEW.png?raw=true" width=48%>
   <img src="https://github.com/Ascellayn/TSN_Kosaka-Issues/blob/main/Showcase/Embed_PixivNEW.png?raw=true" width=50%>
