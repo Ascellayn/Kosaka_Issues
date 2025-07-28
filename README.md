@@ -33,7 +33,7 @@ With possibly way more websites as time passes!
   <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/Manual_Images/Manual_Archiver.gif?raw=true" width=40%> 
 </p>
 
-Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTRMELY POWERFULL** message logger!
+Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTREMELY POWERFULL** message logger!
 
 <br>
 
