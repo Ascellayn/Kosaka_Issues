@@ -1,7 +1,7 @@
 <img align=right src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/Embed_TwitterProfileNEW.png?raw=true" width=25%>
 <br>
 
-#### Starting from an [experiment that became abandonned](https://github.com/Ascellayn/TSN_Kosaka-OLD), for it to finally get the love it deserved...
+#### Starting from an [experiment that became abandonned](https://github.com/Ascellayn/Kosaka_Deprecated), for it to finally get the love it deserved...
 ### Kosaka is now a 3 year old Discord Bot.
 And boy is it FINALLY useful and got some real use cases.
 
@@ -29,11 +29,20 @@ With possibly way more websites as time passes!
 
 # Kosaka helps you manage your server
 <p align=center>
-  <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/ChMod_MediaOnlyNEW.png?raw=true" width=60%>
-  <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/Charm_Welcomer.png?raw=true" width=35%> 
+  <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/ChMod_MediaOnlyNEW.png?raw=true" width=45%>
+  <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/Manual_Images/Manual_Archiver.gif?raw=true" width=40%> 
 </p>
 
 Keep your members in check thanks to commands such as `/channel_mods media_only` and Kosaka's **EXTRMELY POWERFULL** message logger!
+
+<br>
+
+# Kosaka plays your favorite songs, right in your voice channel.
+<p align=center>
+  <img src="https://github.com/Ascellayn/Kosaka_Issues/blob/main/Showcase/Manual_Images/Manual_Music.gif?raw=true" width=80%>
+</p>
+
+Thanks to [Kosaka's Media Downloading Service](https://github.com/Ascellayn/Kosaka_MDS), Kosaka can play any song from **YouTube, Soundcloud or Bandcamp**, it even supports playing full playlists / albums! (Note: With the exception of YouTube due to speed issues)
 
 <br>
 
